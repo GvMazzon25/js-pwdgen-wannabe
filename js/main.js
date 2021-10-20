@@ -19,4 +19,4 @@ console.log('Password');
 console.log(typeof 'Password')
 
 /*Mostrare risultato schermo*/
-document.getElementById('password') .innerHTML = "La tua password è" + Password
+document.getElementById('password') .innerHTML = "La tua password è " + Password
